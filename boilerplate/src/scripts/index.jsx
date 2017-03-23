@@ -4,8 +4,8 @@ import ReactDOM from "react-dom";
 class Layout extends React.Component {
   render() {
     return (
-      <h1>Test</h1>
-    )
+      <h1>START DEV</h1>
+    );
   }
 }
 
